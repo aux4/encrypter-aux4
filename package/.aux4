@@ -1,7 +1,7 @@
 {
   "scope": "aux4",
   "name": "encrypter-aux4",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Local AES-256-GCM encryption provider for the aux4/encrypter facade",
   "license": "Apache-2.0",
   "tags": [
